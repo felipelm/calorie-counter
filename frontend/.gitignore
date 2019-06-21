@@ -24,3 +24,5 @@ yarn-error.log*
 public/env-config.js
 .env
 docker-compose.yml
+
+.coveralls.yml
